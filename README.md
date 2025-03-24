@@ -36,7 +36,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone "https://github.com/your-username/plant-disease-detection-frontend.git"
+git clone (https://github.com/Shirkesneha22/Plant-disease-web-application.git)
 Open index.html in a browser.
 
 🔗 Future Enhancements
